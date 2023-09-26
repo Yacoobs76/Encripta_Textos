@@ -1,7 +1,8 @@
 # Encripta_Textos
 Programado con Java, programa que es capaz de encriptar textos usando algoritmos y una contraseña
 El proyecto del programa esta basado en el editor de Netbeans y precisas de librerias que solo estan incluidas en Netbeans!!!!
-
+El programa es capaz de guardar el archivo encriptado en un fichero con extension ecy, que posterior mente despues se puede arrastrar sobre
+la ventana del programa y este se abre solo soporta ese tipo de extension.
 
 
 
